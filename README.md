@@ -14,7 +14,7 @@
 
 - 📫 How to reach me [**@bratcelik**](https://twitter.com/bratcelik) or **bratcelik@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/berat-sercan-celik/](https://www.linkedin.com/in/berat-sercan-celik/)
+- 📄 Know about my experiences [***Linkedin***](https://www.linkedin.com/in/berat-sercan-celik/)
 
 <h3 align="left">🔗 &nbsp;Connect with me:</h3>
 <p align="left">
