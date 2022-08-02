@@ -1,6 +1,6 @@
 ### Hi there <a href="https://twitter.com/bratcelik"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-<h1 align="center">I'm Berat Sercan ÇELİK</h1>
-<h3 align="center">A curious Junior Backend Developer</h3>
+<h1 align="left">I'm Berat Sercan ÇELİK</h1>
+<h3 align="left">A curious Junior Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bratcelik&label=Profile%20views&color=0e75b6&style=flat" alt="bratcelik" /> </p>
 
