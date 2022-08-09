@@ -2,9 +2,8 @@
 <h1 align="left">I'm Berat Sercan ÇELİK</h1>
 <h3 align="left">A curious Junior Backend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bratcelik&label=Profile%20views&color=0e75b6&style=flat" alt="bratcelik" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=bratcelik&label=Profile%20views&color=0e75b6&style=flat" alt="bratcelik" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bratcelik" target="_blank"><img src="https://img.shields.io/twitter/follow/bratcelik?logo=twitter&style=for-the-badge" alt="bratcelik" /></a> </p>
 
 - 🔭 I’m currently working on **something cool 😉**
 
