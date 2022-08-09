@@ -39,13 +39,9 @@ Hello, I'm Berat Sercan Celik. In the past, I had the opportunity to develop mys
 </details>
 
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bratcelik&show_icons=true&locale=en&layout=compact" alt="bratcelik" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bratcelik&show_icons=true&locale=en" alt="bratcelik" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bratcelik&" alt="bratcelik" /></p>
+<div align="left">
+  <a href="https://github.com/bratcelik">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=bratcelik&count_private=true&show_icons=true&theme=dark&hide_rank=false"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bratcelik&langs_count=6&layout=compact&theme=dark"/>
+</div>
 
