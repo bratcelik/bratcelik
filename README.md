@@ -2,7 +2,9 @@
 <h1 align="left">I'm Berat Sercan ÇELİK</h1>
 <h3 align="left">A curious Junior Backend Developer</h3>
 
-***
+
+
+
 
 - 🔭 I’m currently working on **something cool 😉**
 
