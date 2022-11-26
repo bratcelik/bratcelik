@@ -28,7 +28,7 @@
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-Hello, I'm Berat Sercan Celik. In the past, I had the opportunity to develop myself in the field of Robotic Systems and Mobile Games. I am currently improving myself in the field of Backend.
+Hello, I'm Berat Sercan Celik. In the past, I had the opportunity to develop myself in the field of Robotic Systems and Mobile Games. I am currently improving myself in the fields of Backend and Front-End.
 </details> 
 
 <details>
