@@ -1,16 +1,16 @@
 ### Hi there <a href="https://twitter.com/bratcelik"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 <h1 align="left">I'm Berat Sercan ÇELİK</h1>
-<h3 align="left">A curious Junior Backend Developer</h3>
+<h3 align="left">A curious Backend Developer</h3>
 
 
 
 
 
-- 🔭 I’m currently working on **something cool 😉**
+- 🔭 I’m currently working on **Full Stack Project with Onion Architecture**
 
-- 🌱 I’m currently learning **Java, SpringBoot**
+- 🌱 I’m currently learning **.NET, Angular**
 
-- 💬 Ask me about anything related to **C, C++, Unity**
+- 💬 Ask me about anything related to **C#, Java, Unity**
 
 - 📫 How to reach me [**@bratcelik**](https://twitter.com/bratcelik) or **bratcelik@gmail.com**
 
