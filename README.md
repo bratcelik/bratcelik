@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **Full Stack Project with Onion Architecture**
+- 🔭 I’m currently working on **Full Stack Project**
 
 - 🌱 I’m currently learning **.NET, Angular**
 
