@@ -41,7 +41,7 @@ Hello, I'm Berat Sercan Celik. In the past, I had the opportunity to develop mys
 
 <div align="left">
   <a href="https://github.com/bratcelik">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=bratcelik&count_private=true&show_icons=true&theme=dark&hide_rank=false"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=bratcelik&theme=dark&show_icons=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bratcelik&langs_count=6&layout=compact&theme=dark"/>
 </div>
 
