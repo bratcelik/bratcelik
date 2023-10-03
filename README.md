@@ -1,6 +1,6 @@
 ### Hi there <a href="https://twitter.com/bratcelik"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 <h1 align="left">I'm Berat Sercan ÇELİK</h1>
-<h3 align="left">A curious Full-Stack Developer</h3>
+<h3 align="left">A curious Backend Developer</h3>
 
 
 
@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Full Stack Project**
 
-- 🌱 I’m currently learning **.NET, Angular**
+- 🌱 I’m currently learning **.Microservice Architecture**
 
-- 💬 Ask me about anything related to **C#, Java, C, Unity**
+- 💬 Ask me about anything related to **.NET Core, C#, Angular, Java, C, Unity**
 
 - 📫 How to reach me [**@bratcelik**](https://twitter.com/bratcelik) or **bratcelik@gmail.com**
 
